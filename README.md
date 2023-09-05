@@ -1,0 +1,1 @@
+# typeScript_note_and_practices
